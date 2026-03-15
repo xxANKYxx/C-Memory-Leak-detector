@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\capture\stacktrace_capture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\core\allocation_tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\core\allocator_hooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\core\memsentry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\core\shadow_memory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\detectors\cycle_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\detectors\double_free_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\detectors\fragmentation_analyzer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\detectors\invalid_free_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\detectors\leak_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\detectors\mismatch_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\detectors\overflow_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\detectors\uninit_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\detectors\use_after_free_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\platform\linux_platform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\platform\windows_platform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\reporting\console_reporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\reporting\file_reporter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\reporting\report_engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\reporting\statistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\src\threading\background_scanner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\z004sh6s\Desktop\MyProj\MemSentry\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CE0C6086-4EBF-327D-91F2-9320A35C6C16}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
