@@ -230,8 +230,4 @@ MemSentry/
 - **Windows**: requires `dbghelp.lib` (included with Windows SDK)
 - **Linux**: requires `libdl`, optionally `libunwind`
 
----
 
-## License
-
-MIT
